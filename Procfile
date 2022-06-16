@@ -1,1 +1,1 @@
-web: python egypt.py
+worker: python egypt.py
