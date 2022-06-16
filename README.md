@@ -1,1 +1,2 @@
-# eras-game
+# egypt
+a game developed using pygame
