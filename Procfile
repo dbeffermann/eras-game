@@ -1,1 +1,1 @@
-python egypt.py
+web: python egypt.py
