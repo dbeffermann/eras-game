@@ -1,3 +1,4 @@
+print("neeeeeewa")
 import pygame, random
 
 BLACK = (0, 0, 0)
